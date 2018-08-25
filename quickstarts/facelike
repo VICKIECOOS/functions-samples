@@ -1,0 +1,14 @@
+
+<script src="https://www.gstatic.com/firebasejs/5.4.1/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyADTF5p47ZdFzRX5AWKbSQlam_H-iFZRAw",
+    authDomain: "facelike-victoria.firebaseapp.com",
+    databaseURL: "https://facelike-victoria.firebaseio.com",
+    projectId: "facelike-victoria",
+    storageBucket: "facelike-victoria.appspot.com",
+    messagingSenderId: "723107404584"
+  };
+  firebase.initializeApp(config);
+</script>
